@@ -289,7 +289,7 @@ a.button {
 }
 
 .first_item_3 {
-    background-image: url(img/card4.png);
+    background-image: url(img/card3.jpg);
     background-repeat: no-repeat;
 }
 
@@ -342,4 +342,8 @@ a.button {
 
 .button_browse {
     text-align: center;
+}
+
+.fa-arrow-right {
+    padding-left: 9px;
 }
